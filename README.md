@@ -46,7 +46,7 @@ Seenit/
 ├── package.json
 
 
-## 💡 Inspiration
+## Inspiration
 
 Inspired by apps like BeReal and the emotional weight of personal memory, Seenit offers a new take on sharing and storing moments — with a twist.
 
